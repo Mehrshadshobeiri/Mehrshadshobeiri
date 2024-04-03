@@ -1,4 +1,4 @@
-https://github.com/Mehrshadshobeiri# Mehrshad Shobeiri
+Mehrshad Shobeiri
 
 Hello there! I'm Mehrshad, a Biochemistry and Molecular Biology M.Sc. graduate from the University of Potsdam, who has passionately pivoted towards Bioinformatics. Currently, I'm broadening my horizon into Data Science and AI through a comprehensive 9-week BootCamp at Le Wagon. My academic and professional journey is characterized by a dedicated shift towards bioinformatics, leveraging coding skills to analyze biological data and solve complex problems through data-driven insights.
 
