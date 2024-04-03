@@ -1,4 +1,4 @@
-# Mehrshad Shobeiri
+https://github.com/Mehrshadshobeiri# Mehrshad Shobeiri
 
 Hello there! I'm Mehrshad, a Biochemistry and Molecular Biology M.Sc. graduate from the University of Potsdam, who has passionately pivoted towards Bioinformatics. Currently, I'm broadening my horizon into Data Science and AI through a comprehensive 9-week BootCamp at Le Wagon. My academic and professional journey is characterized by a dedicated shift towards bioinformatics, leveraging coding skills to analyze biological data and solve complex problems through data-driven insights.
 
@@ -8,13 +8,13 @@ Hello there! I'm Mehrshad, a Biochemistry and Molecular Biology M.Sc. graduate f
 
 - **🌱 Current Endeavor:** Completing a Data Science BootCamp at Le Wagon, focusing on practical, hands-on learning in data analysis, machine learning, and AI.
 
-- **💡 Project Highlight:** Collaborated on an international team project during the BootCamp, focusing on measuring the happiness of European people, which honed my data analysis and teamwork skills across diverse cultures.
+- **💡 Project Highlight:** Collaborated on an international team project during the BootCamp, focusing on measuring the happiness of European people, which honed my machine learning, data analysis and teamwork skills across diverse cultures.
 
 - **🔬 Professional Experience:** Includes practical lab experience in genetics, and cellular biology, with a strong emphasis on utilizing bioinformatics tools and programming languages such as R to analyze and interpret biological data.
 
 ## 💻 Technical Skills
 
-- **Programming Languages & Libraries:** Proficient in Python and R, with extensive use of libraries such as Pandas, scikit-learn, seaborn, statsmodels, and TensorFlow for data analysis, visualization, and machine learning projects.
+- **Programming Languages & Libraries:** Proficient in Python and R, with extensive use of libraries such as Pandas, scikit-learn, seaborn, statsmodels, and TensorFlow for machine learning and neural network, visualization, and machine learning projects.
 
 - **Bioinformatics Tools:** Experienced with BLAST, AUGUSTUS, BUSCO, MEGAN, MUMmer & Nucmer, FastQC, Fastp, NOVOplasty, BWA, MAFFT, cutadapt, MEGA, NextFlow, demonstrating a strong foundation in genetic and genomic analysis.
 
